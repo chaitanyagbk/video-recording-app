@@ -1,0 +1,8 @@
+# Ignore node modules
+client/node_modules/
+backend/node_modules/
+python-backend/__pycache__/
+python-backend/venv/
+.env
+.DS_Store
+
