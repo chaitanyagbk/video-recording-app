@@ -1,3 +1,0 @@
-file '/media/chaitanya/New Volume/REACT-Projects/video-recording-app/backend/recordings/chunks/1741023197811/chunk_000000.webm'
-file '/media/chaitanya/New Volume/REACT-Projects/video-recording-app/backend/recordings/chunks/1741023197811/chunk_000001.webm'
-file '/media/chaitanya/New Volume/REACT-Projects/video-recording-app/backend/recordings/chunks/1741023197811/chunk_000002.webm'
